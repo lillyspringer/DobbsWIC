@@ -4,6 +4,7 @@ Replication package for "Downstream Effects of Post-Dobbs Abortion Bans: Birth R
 Data on WIC participation are in "WIC Data" folder. <br/>
 Data on birth rates are in "Birth Data" folder. <br/>
 Data on abortion policies are in "abortionpolicies" excel file in "Additional Data" folder. <br/>
+Data need to construct the map are in "Map Data" folder. <br/>
 All additional data (population data, annual state unemployment rates, and additional controls) are in "Additional Data" folder. <br/>
 
 data_readin.do constructs the data set. <br/>
